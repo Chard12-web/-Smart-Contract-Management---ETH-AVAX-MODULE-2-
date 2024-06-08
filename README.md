@@ -1,5 +1,10 @@
 # Starter Next/Hardhat Project
 
+## This is the PART 2 of Smart Contract Management ETH AVAX MODULE-2
+
+### Link: 
+https://www.loom.com/share/0a1062a47d3b40a89c0daafe48ddd31d?sid=fdddfde3-aa93-4af8-aaa5-2a0d1d10e438
+
 After cloning the github, you will want to do the following to get the code running on your computer.
 
 1. Inside the project directory, in the terminal type: npm i
